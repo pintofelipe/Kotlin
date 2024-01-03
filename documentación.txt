@@ -1,0 +1,8 @@
+################Listas################
+Métodos: 
+
+.last() --> Accede al ultimo valor de la lista
+.first() --> Accéde al primer valor de la lista
+.filter{ } --> Recorre una por una automaticamente
+.filter{it.contains("a")} --> va a buscar en toda la lista las palabras que contengan la letra a
+
